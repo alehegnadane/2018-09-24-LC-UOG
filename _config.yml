@@ -3,10 +3,10 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc", "dc", or "lc")?
-carpentry: "swc"
+carpentry: "lc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "GIZ-STEP"
 
 # Contact email address.
 email:  mesfin.diro@aau.edu.et
